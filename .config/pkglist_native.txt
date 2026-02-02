@@ -138,6 +138,7 @@ noto-fonts-cjk
 noto-fonts-emoji
 nss-mdns
 octopi
+ollama-rocm
 opencl-mesa
 openssh
 os-prober
@@ -171,7 +172,9 @@ python-packaging
 rebuild-detector
 reflector
 ripgrep
+rocm-smi-lib
 rsync
+rustup
 s-nail
 sg3_utils
 smartmontools
