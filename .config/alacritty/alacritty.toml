@@ -25,34 +25,34 @@ multiplier = 3
 draw_bold_text_with_bright_colors = true
 
 [colors.primary]
-background = "0x2E3440"
-foreground = "0xD8DEE9"
+background = "#000000"
+foreground = "#009900"
 
 [colors.normal]
-black = "0x3B4252"
-red = "0xBF616A"
-green = "0xA3BE8C"
-yellow = "0xEBCB8B"
-blue = "0x81A1C1"
-magenta = "0xB48EAD"
-cyan = "0x88C0D0"
-white = "0xE5E9F0"
+black = "#000000"
+red = "#AA0000"
+green = "#009900"
+yellow = "#999900"
+blue = "#0000AA"
+magenta = "#990099"
+cyan = "#00AAAA"
+white = "#DDDDDD"
 
 [colors.bright]
-black = "0x4C566A"
-red = "0xBF616A"
-green = "0xA3BE8C"
-yellow = "0xEBCB8B"
-blue = "0x81A1C1"
-magenta = "0xB48EAD"
-cyan = "0x8FBCBB"
-white = "0xECEFF4"
+black = "#444444"
+red = "#FF0000"
+green = "#00FF00"
+yellow = "#FFFF00"
+blue = "#0000FF"
+magenta = "#FF00FF"
+cyan = "#00FFFF"
+white = "#FFFFFF"
 
 [font]
 size = 12
 
 [font.normal]
-family = "monospace"
+family = "hack"
 style = "Regular"
 
 [font.bold]
@@ -160,5 +160,8 @@ mods = "Control"
 action = "ResetFontSize"
 
 [general]
+import = [
+    "~/.config/alacritty/themes/dracula.toml"
+]
 live_config_reload = true
 working_directory = "None"
