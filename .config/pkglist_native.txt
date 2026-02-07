@@ -137,8 +137,10 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 nss-mdns
+obsidian
 octopi
 ollama-rocm
+onlyoffice-bin
 opencl-mesa
 openssh
 os-prober
@@ -183,6 +185,7 @@ sof-firmware
 spectacle
 sudo
 sysfsutils
+tailscale
 texinfo
 ttf-bitstream-vera
 ttf-dejavu
