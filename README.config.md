@@ -34,6 +34,7 @@ snap list | awk 'NR>1 {print $1}' > ~/.config/snaplist.txt
 npm list -g --depth=0 --json > ~/.config/npmlist.json
 pipx list --json > ~/.config/pipxlist.json
 cargo install --list > ~/.config/cargolist.txt
+ls /usr/local/bin > ~/.config/ls-usr-local-bin.txt
 ```
 
 
@@ -44,6 +45,18 @@ sudo pacman -S --needed - < ~/.config/pkglist_native.txt
 paru -S --needed - < ~/.config/pglist_aur.txt
 xargs flatpak install -y < ~/.config/flatpaklist.txt
 ```
+
+### Special apps/scripts
+
+#### ww-run-raise
+ 
+To download only the script directly from github repo:
+```
+curl -O https://raw.githubusercontent.com/academo/ww-run-raise/master/ww > ~/.local/bin/ww
+chmod +x ~/.local/bin/ww
+```
+
+This is tracked by an `ls` command up in the app inventory section. Hotkeys are set up using KDE and tracked in `kglobalshortcutsrc` and the corresponding commands in `~/.local/share/applications/`
 
 ## AppImages
 
