@@ -55,14 +55,4 @@ To download only the script directly from github repo:
 curl -O https://raw.githubusercontent.com/academo/ww-run-raise/master/ww > ~/.local/bin/ww
 chmod +x ~/.local/bin/ww
 ```
-
-This is tracked by an `ls` command up in the app inventory section. Hotkeys are set up using KDE and tracked in `kglobalshortcutsrc` and the corresponding commands in `~/.local/share/applications/`
-
-## AppImages
-
-Probably don't care too much, but could:
-Create folder `mkdir -p ~/apps`
-Consider using gearlever `flatpak install flathub it.mijorus.gearlever`
-or `paru -S appimagelauncher`
-Then I think stuff goes in `~/.local/share/applications/`
-
+Hotkeys are set up using KDE and tracked in `kglobalshortcutsrc` and the corresponding commands in `~/.local/share/applications/`

@@ -252,5 +252,11 @@ switch to next activity=none,,Switch to Next Activity
 switch to previous activity=none,,Switch to Previous Activity
 toggle do not disturb=none,,Toggle do not disturb
 
+[services][net.local.ww-2.desktop]
+_launch=Alt+T
+
+[services][net.local.ww-3.desktop]
+_launch=Alt+C
+
 [services][net.local.ww.desktop]
-_launch=Meta+Alt+F
+_launch=Alt+F
