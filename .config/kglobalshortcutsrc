@@ -242,8 +242,8 @@ cycleNextAction=none,,Next History Item
 cyclePrevAction=none,,Previous History Item
 edit_clipboard=none,,Edit Contents…
 manage activities=Meta+Q,Meta+Q,Show Activity Switcher
-next activity=Meta+A,none,Walk through activities
-previous activity=Meta+Shift+A,none,Walk through activities (Reverse)
+next activity=none,none,Walk through activities
+previous activity=none,none,Walk through activities (Reverse)
 repeat_action=none,,Manually Invoke Action on Current Clipboard
 show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
 show-barcode=none,,Show Barcode…
@@ -252,11 +252,4 @@ switch to next activity=none,,Switch to Next Activity
 switch to previous activity=none,,Switch to Previous Activity
 toggle do not disturb=none,,Toggle do not disturb
 
-[services][net.local.ww-2.desktop]
-_launch=Alt+T
 
-[services][net.local.ww-3.desktop]
-_launch=Alt+C
-
-[services][net.local.ww.desktop]
-_launch=Alt+F
