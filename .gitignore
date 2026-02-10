@@ -6,3 +6,4 @@
 !/.local/share/applications/
 !/.local/share/applications/*
 !/.config/
+!/.config/*.txt

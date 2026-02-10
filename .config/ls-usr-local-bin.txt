@@ -1,2 +1,2 @@
-.[1;33mr[31mw[4;32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m  [32m711[0m root [34m 5 Feb 08:52[0m [1;32mmkinitcpio[0m
+.[1;33mr[31mw[4;32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m  [32m711[0m root [34m 8 Feb 12:34[0m [1;32mmkinitcpio[0m
 .[1;33mr[31mw[4;32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;32m1.3k[0m root [34m24 Jan 10:13[0m [1;32mremove-nvidia[0m

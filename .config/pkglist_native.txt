@@ -9,6 +9,7 @@ awesome-terminal-fonts
 base
 base-devel
 bash-completion
+betterbird-bin
 bind
 bluedevil
 bluez
@@ -16,6 +17,7 @@ bluez-hid2hci
 bluez-libs
 bluez-obex
 bluez-utils
+bmon
 breeze-gtk
 btop
 btrfs-assistant
@@ -79,6 +81,7 @@ gst-plugins-ugly
 gwenview
 haruna
 hdparm
+htop
 hwdetect
 hwinfo
 inetutils
@@ -167,6 +170,7 @@ plymouth-kcm
 poppler-glib
 power-profiles-daemon
 powerdevil
+protonmail-bridge
 pv
 python
 python-defusedxml
