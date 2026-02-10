@@ -12,6 +12,19 @@ Save the config alias to .bashrc or whatever.
 `config remote add origin https://github.com/pabrams/cachydot.git`
 `config push -u origin trunk`
 
+### VS Code
+
+Need to do a few things to get VS code to behave how we want when opening home folder.
+
+```
+config --git-dir=$HOME/.cfg config --local core.worktree $HOME
+echo "*" > ~/.gitignore
+```
+ 
+See also `~/config.code-workspace`
+
+
+
 ## Install
 
 To install on a new machine, don't just clone, do this:
