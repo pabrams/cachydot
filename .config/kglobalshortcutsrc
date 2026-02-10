@@ -252,4 +252,14 @@ switch to next activity=none,,Switch to Next Activity
 switch to previous activity=none,,Switch to Previous Activity
 toggle do not disturb=none,,Toggle do not disturb
 
+[services][net.local.ww_alacritty.desktop]
+_launch=Alt+T
 
+[services][net.local.ww_code.desktop]
+_launch=Alt+C
+
+[services][net.local.ww_dolphin.desktop]
+_launch=Alt+E
+
+[services][net.local.ww_firefox.desktop]
+_launch=Alt+F

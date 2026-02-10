@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ww_code
+Exec=ww -f code -c code
+Icon=code
+NoDisplay=true
+StartupNotify=false
+X-KDE-GlobalAccel-CommandShortcut=true

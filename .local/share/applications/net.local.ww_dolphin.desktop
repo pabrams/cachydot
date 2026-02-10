@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ww_dolphin
+Exec=ww -f org.kde.dolphin -c dolphin
+Icon=code
+NoDisplay=true
+StartupNotify=false
+X-KDE-GlobalAccel-CommandShortcut=true

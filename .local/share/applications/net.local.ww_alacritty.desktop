@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ww_alacritty
+Exec=ww -f Alacritty -c alacritty
+Icon=code
+NoDisplay=true
+StartupNotify=false
+X-KDE-GlobalAccel-CommandShortcut=true
