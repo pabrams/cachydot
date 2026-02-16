@@ -8,7 +8,8 @@
 		"git.autoRepositoryDetection": false,
 		"git.untrackedChanges": "hidden",
 		"git.scanRepositories": [
-			"./.cfg"
-		]
+			"/home/i/.cfg"
+		],
+		"git.repositoryScanMaxDepth": 0
 	}
 }
