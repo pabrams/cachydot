@@ -22,6 +22,7 @@ breeze-gtk
 btop
 btrfs-assistant
 btrfs-progs
+bun-bin
 cachyos-emerald-kde-theme-git
 cachyos-fish-config
 cachyos-hello
@@ -53,6 +54,8 @@ diffutils
 dmidecode
 dmraid
 dnsmasq
+docker
+docker-compose
 dolphin
 dosfstools
 duf
@@ -214,4 +217,5 @@ xdg-user-dirs
 xf86-video-amdgpu
 xfsprogs
 xl2tpd
+xournalpp
 xsettingsd
