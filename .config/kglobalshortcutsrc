@@ -3,8 +3,8 @@ _k_friendly_name=Activity Manager
 switch-to-activity-f9ee75d3-79fb-47dc-af64-2e3270a15716=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
-Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,Switch to Last-Used Keyboard Layout
-Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Switch to Next Keyboard Layout
+Switch to Last-Used Keyboard Layout=none,Meta+Alt+L,Switch to Last-Used Keyboard Layout
+Switch to Next Keyboard Layout=none,Meta+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
 [kaccess]
