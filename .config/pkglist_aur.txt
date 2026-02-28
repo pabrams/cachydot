@@ -1,3 +1,4 @@
 bombadillo
 burpsuite
+libuvc
 visual-studio-code-bin

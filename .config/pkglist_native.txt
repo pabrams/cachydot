@@ -47,6 +47,7 @@ cachyos-zsh-config
 cantarell-fonts
 char-white
 chwd
+claude-code
 cpupower
 cryptsetup
 device-mapper
@@ -81,6 +82,7 @@ gst-plugin-pipewire
 gst-plugin-va
 gst-plugins-bad
 gst-plugins-ugly
+guvcview
 gwenview
 haruna
 hdparm
@@ -101,6 +103,7 @@ kdialog
 kinfocenter
 kio-admin
 konsole
+kooha
 kscreen
 kwallet-pam
 kwalletmanager
@@ -110,6 +113,7 @@ lib32-opencl-mesa
 lib32-vulkan-radeon
 libdvdcss
 libgsf
+libheif
 libopenraw
 limine
 limine-mkinitcpio-hook
@@ -143,11 +147,13 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 nss-mdns
+obs-studio
 obsidian
 octopi
 ollama-rocm
 onlyoffice-bin
 opencl-mesa
+opencode
 openssh
 os-prober
 pacman-contrib
@@ -185,6 +191,8 @@ rocm-smi-lib
 rsync
 rustup
 s-nail
+sdl2_image
+sdl2_mixer
 sg3_utils
 smartmontools
 snapper
@@ -194,6 +202,7 @@ sudo
 sysfsutils
 tailscale
 texinfo
+tmux
 ttf-bitstream-vera
 ttf-dejavu
 ttf-liberation
