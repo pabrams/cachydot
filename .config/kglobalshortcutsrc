@@ -7,6 +7,12 @@ Switch to Last-Used Keyboard Layout=none,Meta+Alt+L,Switch to Last-Used Keyboard
 Switch to Next Keyboard Layout=none,Meta+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
+[com.google.Chrome]
+563CA7418B94B1E2204FF49C36805ACF-execute_side_panel=,none,Open sidebar
+563CA7418B94B1E2204FF49C36805ACF-open_raindrop_web=,none,Open Raindrop.io web-site
+563CA7418B94B1E2204FF49C36805ACF-save_page=,none,Bookmark / Save highlights
+_k_friendly_name=Google Chrome
+
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
 _k_friendly_name=Accessibility
@@ -278,3 +284,7 @@ _launch=Alt+E
 
 [services][net.local.ww_firefox.desktop]
 _launch=Alt+F
+
+[services][org.kde.spectacle.desktop]
+CurrentMonitorScreenShot=
+OpenWithoutScreenshot=

@@ -59,6 +59,7 @@ docker
 docker-compose
 dolphin
 dosfstools
+dotnet-sdk
 duf
 e2fsprogs
 efibootmgr
@@ -77,6 +78,7 @@ fwupd
 git
 github-cli
 glances
+godot
 gst-libav
 gst-plugin-pipewire
 gst-plugin-va

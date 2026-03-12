@@ -1,4 +1,6 @@
 bombadillo
 burpsuite
+google-chrome
 libuvc
+unityhub
 visual-studio-code-bin
