@@ -8,3 +8,48 @@
 !/.config/
 !/.config/*.txt
 !/CLAUDE.md
+
+# Fish shell
+!/.config/fish/
+!/.config/fish/conf.d/
+!/.config/fish/conf.d/*
+!/.config/fish/completions/
+!/.config/fish/completions/*
+!/.config/fish/functions/
+!/.config/fish/functions/*
+
+# GitHub CLI
+!/.config/gh/
+!/.config/gh/config.yml
+
+# Git global ignore
+!/.config/git/
+!/.config/git/ignore
+
+# btop
+!/.config/btop/
+!/.config/btop/btop.conf
+
+# Micro editor
+!/.config/micro/
+!/.config/micro/settings.json
+
+# GTK theming
+!/.gtkrc-2.0
+!/.config/gtk-3.0/
+!/.config/gtk-3.0/*
+!/.config/gtk-4.0/
+!/.config/gtk-4.0/*
+!/.config/Trolltech.conf
+
+# Godot
+!/.config/godot/
+!/.config/godot/editor_settings-4.6.tres
+
+# Xournal++
+!/.config/xournalpp/
+!/.config/xournalpp/settings.xml
+
+# OBS Studio
+!/.config/obs-studio/
+!/.config/obs-studio/global.ini
