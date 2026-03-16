@@ -53,3 +53,7 @@
 # OBS Studio
 !/.config/obs-studio/
 !/.config/obs-studio/global.ini
+
+# tmux
+!/.tmux.conf
+
