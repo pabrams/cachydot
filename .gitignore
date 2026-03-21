@@ -57,3 +57,5 @@
 # tmux
 !/.tmux.conf
 
+# starship
+!/.config/starship.toml
