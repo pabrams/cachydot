@@ -75,6 +75,7 @@ filelight
 firefox
 fsarchiver
 fwupd
+gemini-cli
 git
 github-cli
 glances
@@ -179,6 +180,7 @@ plocate
 plymouth
 plymouth-kcm
 poppler-glib
+postgresql
 power-profiles-daemon
 powerdevil
 protonmail-bridge
@@ -189,6 +191,8 @@ python-packaging
 rebuild-detector
 reflector
 ripgrep
+rocm-hip-sdk
+rocm-opencl-sdk
 rocm-smi-lib
 rsync
 rustup
@@ -200,6 +204,7 @@ smartmontools
 snapper
 sof-firmware
 spectacle
+starship
 sudo
 sysfsutils
 tailscale
