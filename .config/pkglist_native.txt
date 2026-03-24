@@ -22,7 +22,6 @@ breeze-gtk
 btop
 btrfs-assistant
 btrfs-progs
-bun-bin
 cachyos-emerald-kde-theme-git
 cachyos-fish-config
 cachyos-hello
@@ -77,6 +76,7 @@ fsarchiver
 fwupd
 gemini-cli
 git
+git-delta
 github-cli
 glances
 godot
