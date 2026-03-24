@@ -7,3 +7,16 @@
 [credential "https://gist.github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
+[core]
+    pager = delta
+[interactive]
+    diffFilter = delta --color-only
+[delta]
+    navigate = true       # Use 'n' and 'N' to jump between diff sections
+    light = false         # Set to true if you use a light-themed terminal
+    side-by-side = true   # Displays old/new code next to each other
+    line-numbers = true   # Shows line numbers for context
+[merge]
+    conflictstyle = diff3 # Improves how merge conflicts are displayed
+[diff]
+    colorMoved = default  # Highlights code that was moved, rather than just deleted/added
