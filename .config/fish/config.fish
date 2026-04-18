@@ -9,6 +9,11 @@ if not string match -q -- $PNPM_HOME $PATH
 end
 # pnpm end
 
+# Google Cloud CLI path and completions
+if test -f /opt/google-cloud-cli/path.fish.inc
+    source /opt/google-cloud-cli/path.fish.inc
+end
+
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 # if test -f /home/i/miniconda3/bin/conda

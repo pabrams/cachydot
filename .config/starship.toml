@@ -83,7 +83,7 @@ format = '\[[$symbol$branch]($style)\]'
 format = '\[[+$added]($added_style)\]\[[-$deleted]($deleted_style)\]'
 
 [gcloud]
-format = '\[[$symbol$account(@$domain)(\($region\))]($style)\]'
+disabled = true
 
 [git_branch]
 format = '\[[$symbol$branch]($style)\]'
