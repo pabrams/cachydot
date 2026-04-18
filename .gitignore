@@ -5,6 +5,8 @@
 !/.local/share/
 !/.local/share/applications/
 !/.local/share/applications/*
+/.local/share/applications/mimeinfo.cache
+/.local/share/applications/mimeapps.list
 !/.config/
 !/.config/*.txt
 !/CLAUDE.md
@@ -59,6 +61,12 @@
 
 # starship
 !/.config/starship.toml
+
+# VS Code
+!/.config/Code/
+!/.config/Code/User/
+!/.config/Code/User/keybindings.json
+!/.config/Code/User/settings.json
 
 # config-related scripts
 !/config-update-pkglist.sh
