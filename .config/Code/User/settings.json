@@ -8,7 +8,9 @@
     "editor.stickyScroll.enabled": false,
     "terminal.integrated.commandsToSkipShell": [
         "kilo-code.new.agentManagerOpen",
-        "kilo-code.new.agentManager.showTerminal"
+        "kilo-code.new.agentManager.showTerminal",
+        "kilo-code.new.agentManager.previousTerminal",
+        "kilo-code.new.agentManager.nextTerminal"
     ],
     "claudeCode.preferredLocation": "panel",
     "git.repositoryScanMaxDepth": 0,
@@ -45,5 +47,6 @@
             ]
         }
     },
-    "highlight.enabled": true
+    "highlight.enabled": false,
+    "diffEditor.renderSideBySide": false
 }
