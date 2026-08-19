@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=SWATH
+MimeType=application/x-wine-extension-swt;
+Exec=env "WINEPREFIX=/home/i/.wine" wine start /ProgIDOpen "SWATH.File" %f
+NoDisplay=true
+StartupNotify=true
+Icon=8591_SWATH.0

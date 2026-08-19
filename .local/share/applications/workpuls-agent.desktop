@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Workpuls
+Comment=Insightful agent running on each computer
+Exec="/home/i/Downloads/Workpuls.AppImage" %U
+Icon=/home/i/.local/share/icons/workpuls.png
+Terminal=false
+Categories=Office;Utility;
+MimeType=x-scheme-handler/workpuls;x-scheme-handler/insightful;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true

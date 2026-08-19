@@ -28,3 +28,5 @@ end
 # <<< conda initialize <<<
 
 starship init fish | source
+# Added by Radicle.
+export PATH="$PATH:/home/i/.radicle/bin"
