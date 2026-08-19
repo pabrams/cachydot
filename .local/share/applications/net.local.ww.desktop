@@ -1,7 +1,6 @@
 [Desktop Entry]
-Exec=ww -f ghostty -c ghostty
-Icon=code
-Name=ww_alacritty
+Exec=ww -f chrome -c chrome
+Name=ww_chrome
 NoDisplay=true
 StartupNotify=false
 Type=Application

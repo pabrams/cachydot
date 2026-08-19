@@ -213,13 +213,13 @@ Window to Desktop 7=none,none,Window to Desktop 7
 Window to Desktop 8=none,none,Window to Desktop 8
 Window to Desktop 9=none,none,Window to Desktop 9
 Window to Next Desktop=none,none,Window to Next Desktop
-Window to Next Screen=none,Meta+Shift+Right,Move Window to Next Screen
+Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,Move Window to Next Screen
 Window to Previous Desktop=none,none,Window to Previous Desktop
-Window to Previous Screen=none,Meta+Shift+Left,Move Window to Previous Screen
-Window to Screen 0=Meta+Shift+Left,none,Move Window to Screen 0
-Window to Screen 1=Meta+Shift+Down,none,Move Window to Screen 1
-Window to Screen 2=Meta+Shift+Up,none,Move Window to Screen 2
-Window to Screen 3=Meta+Shift+Right,none,Move Window to Screen 3
+Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,Move Window to Previous Screen
+Window to Screen 0=Alt+Shift+Num+Ins,none,Move Window to Screen 0
+Window to Screen 1=Meta+Shift+Down\tAlt+Shift+Num+End,none,Move Window to Screen 1
+Window to Screen 2=Meta+Shift+Up\tAlt+Shift+Num+Down,none,Move Window to Screen 2
+Window to Screen 3=Alt+Shift+Num+PgDown,none,Move Window to Screen 3
 Window to Screen 4=none,none,Move Window to Screen 4
 Window to Screen 5=none,none,Move Window to Screen 5
 Window to Screen 6=none,none,Move Window to Screen 6
@@ -296,8 +296,11 @@ toggle do not disturb=none,none,Toggle do not disturb
 [services][com.mitchellh.ghostty.desktop]
 _launch=none
 
+[services][net.local.ww.desktop]
+_launch=Alt+G
+
 [services][net.local.ww_alacritty.desktop]
-_launch=Alt+T
+_launch=Esc
 
 [services][net.local.ww_code.desktop]
 _launch=Alt+C
