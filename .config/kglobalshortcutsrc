@@ -300,7 +300,7 @@ _launch=none
 _launch=Alt+G
 
 [services][net.local.ww_alacritty.desktop]
-_launch=Esc
+_launch=Alt+T
 
 [services][net.local.ww_code.desktop]
 _launch=Alt+C
