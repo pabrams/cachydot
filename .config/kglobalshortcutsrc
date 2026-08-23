@@ -310,7 +310,3 @@ _launch=Alt+E
 
 [services][net.local.ww_firefox.desktop]
 _launch=Alt+F
-
-[services][org.kde.spectacle.desktop]
-CurrentMonitorScreenShot=none
-OpenWithoutScreenshot=none
