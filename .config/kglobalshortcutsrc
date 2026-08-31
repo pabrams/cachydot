@@ -296,6 +296,12 @@ toggle do not disturb=none,none,Toggle do not disturb
 [services][com.mitchellh.ghostty.desktop]
 _launch=none
 
+[services][net.local.monitors-to-cachy.sh.desktop]
+_launch=Meta+F1
+
+[services][net.local.monitors-to-windows.sh.desktop]
+_launch=Meta+F3
+
 [services][net.local.ww.desktop]
 _launch=Alt+G
 
@@ -310,3 +316,7 @@ _launch=Alt+E
 
 [services][net.local.ww_firefox.desktop]
 _launch=Alt+F
+
+[services][org.kde.spectacle.desktop]
+CurrentMonitorScreenShot=none
+OpenWithoutScreenshot=none

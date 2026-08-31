@@ -158,6 +158,10 @@ Sort reversed=false
 Speedbar Width=140
 View Style=Detail
 
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
 [WM]
 activeBackground=26,27,38
 activeBlend=215,218,224

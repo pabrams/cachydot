@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=rundll32
-MimeType=application/x-x509-ca-cert;
+MimeType=application/pkix-cert;
 Exec=env "WINEPREFIX=/home/i/.wine" wine start /ProgIDOpen "CERFile" %f
 NoDisplay=true
 StartupNotify=true

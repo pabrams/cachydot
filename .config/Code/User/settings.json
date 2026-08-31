@@ -48,5 +48,10 @@
         }
     },
     "highlight.enabled": false,
-    "diffEditor.renderSideBySide": false
+    "diffEditor.renderSideBySide": false,
+    "explorer.enableDragAndDrop": false,
+    "editor.dragAndDrop": false,
+    "editor.dropIntoEditor.enabled": false,
+    "workbench.editor.dragToOpenWindow": false,
+    "notebook.dragAndDropEnabled": false
 }
