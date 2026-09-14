@@ -70,3 +70,6 @@
 
 # config-related scripts
 !/config-update-pkglist.sh
+# Claude Code user-level instructions (NOT the rest of ~/.claude — credentials/history live there)
+!/.claude/
+!/.claude/CLAUDE.md
