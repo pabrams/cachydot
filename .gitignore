@@ -73,3 +73,4 @@
 # Claude Code user-level instructions (NOT the rest of ~/.claude — credentials/history live there)
 !/.claude/
 !/.claude/CLAUDE.md
+!/.claude/keybindings.json
