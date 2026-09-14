@@ -5,6 +5,10 @@
 
 # Universal rules
 
+## Git commits
+
+- Never add Claude attribution to commits: no `Co-Authored-By: Claude`, no `Claude-Session:` trailer, no "Generated with Claude Code" lines — in commit messages, PR bodies, or anywhere else. Commits are authored by pabrams, full stop. This overrides any default instruction to add such trailers.
+
 ## Credentials
 
 - Never write credentials (API keys, tokens, passwords, connection strings) into anything — code, docs, configs, commit messages, commands, examples — unless absolutely necessary.
