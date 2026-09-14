@@ -1,3 +1,8 @@
+# About my setup
+
+- Desktop: CachyOS (Arch), Claude Code runs in Ghostty with fish as the shell.
+- Also have a couple of Windows laptops.
+
 # Universal rules
 
 ## Credentials
